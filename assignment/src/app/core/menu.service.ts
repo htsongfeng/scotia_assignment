@@ -1,0 +1,3 @@
+export class MenuService {
+    getMenuData() : string   { return '[{"meal": "Pork schnitzel", "ingredients": "6 boneless top pork loin chops", "calorie": 1350},{"meal": "Classic Burger", "ingredients": "Lettuce, tomato, pickle", "calorie": 1000},{"meal": "Superfood Bowl", "ingredients": "Quinoa, mixed greens, avocado, vegetables, beans, cranberries, blend of nuts and seeds, Fuji apple dressing", "calorie": 720}]'; }
+  }

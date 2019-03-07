@@ -1,0 +1,51 @@
+/* You can add global styles to this file, and also import other style files */
+.panel.purple { 
+    background-color: #7884CE ;
+    color: white;
+}
+
+.panel.purple p{ 
+    width: 50%;
+}
+
+.navbar {
+    background-color:#2F3BA2;    
+}
+
+.navbar-nav {
+    margin-left: 50px;
+}
+
+.panel-heading {
+    margin-left: 5%;
+    margin-right: 5%;   
+}
+
+.panel-body {
+    margin-left: 5%;
+    margin-right: 5%;   
+    margin-bottom: 15px;
+}
+
+footer {
+    margin-left: 10%;
+    margin-right: 10%;   
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background:  #AFAFAF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.social {
+    padding: 40px 10px;
+}
+
+.social img {
+    width: 24px;
+    height: 24px;
+}
